@@ -89,7 +89,7 @@ p {
   color: #fff;
 }
 
-.carousel-item{
+.carousel-item {
   padding: 7% 15%;
 }
 
@@ -106,7 +106,17 @@ p {
   padding-bottom: 3%;
 }
 
-.press-img{
+.press-img {
   width:15%;
   margin: 20px 20px 50px;
+}
+
+/* Pricing Section*/
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column{
+  padding: 3% 2%;
 }
