@@ -69,7 +69,7 @@ p {
 #features {
   background-color: #fff;
   padding: 5% 4%;
-  position: relative;
+  position:relative;
 }
 
 .feature-box {
@@ -123,4 +123,14 @@ p {
 
 .pricing-column{
   padding: 3% 2%;
+}
+
+@media (max-width: 1028px){
+  #title{
+    text-align: center;
+  }
+  .title_image{
+    position: static;
+    transform: rotate(0);
+  }
 }
